@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #echo "11.100.0.5" >  /usr/local/cpanel/version
 #chattr -ia /etc/cpupdate.conf
 #sed -i -r 's/CPANEL=(.+)/CPANEL=11.100.0.5/g' /etc/cpupdate.conf
